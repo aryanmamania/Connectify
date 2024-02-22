@@ -5,10 +5,6 @@ It uses Socket.io for real-time communication and stores user details in encrypt
 
 Features: User login & signup, Real-time chatting, Message Notifications, Real-time typing indicator, Creating Group, Renaming Group, Adding/Removing users from group (admins only), Viewing other users' profiles
 
-## Deployment Link
-
-https://blinkchat.onrender.com/
-
 ## Tech Stack
 
 **Client:** React JS
